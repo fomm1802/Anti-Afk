@@ -1,0 +1,17 @@
+.btn {
+  background-color: #4CAF50; /* สีพื้นหลัง */
+  border: none; /* ไม่มีขอบ */
+  color: white; /* สีตัวหนังสือ */
+  padding: 15px 32px; /* ขนาด */
+  text-align: center; /* จัดกลาง */
+  text-decoration: none; /* ไม่มีขีดเส้นใต้ */
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px; /* ขอบมน */
+}
+
+.btn:hover {
+  background-color: #3e8e41; /* สีเมื่อ hover */
+}
